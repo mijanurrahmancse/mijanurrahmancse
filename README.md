@@ -16,9 +16,9 @@ I'm a passionate full-stack web developer from Bangladesh with over **3 years** 
 !PHP
 !MySQL
 !JavaScript
-[HTML5
+!HTML5
 !CSS3
-[Bootstrap
+!Bootstrap
 !jQuery
 !Git
 !VS Code
