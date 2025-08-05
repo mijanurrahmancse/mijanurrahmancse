@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi there, I'm Muhammad Mijanur Rahman
 
-<!--
-**mijanurrahmancse/mijanurrahmancse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Full-Stack Laravel Web Developer
 
-Here are some ideas to get you started:
+I'm a passionate full-stack web developer from Bangladesh with over **3 years** of experience in the web development sector. I specialize in building high-performance **E-commerce** and **LMS** platforms using Laravel and modern web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 200+ Projects Delivered (E-commerce, LMS, Portfolio, etc.)
+- 🧠 Always learning and implementing clean, scalable code
+- 🤝 Available for collaboration and freelance projects
+
+---
+
+## 🔧 Tech Stack & Key Skills
+
+!Laravel
+!PHP
+!MySQL
+!JavaScript
+[HTML5
+!CSS3
+[Bootstrap
+!jQuery
+!Git
+!VS Code
+
+
+## 📫 Let's Connect!
+- 💼 (https://www.linkedin.com/in/muhammad-mijanur/)
+- 🌐
+- ✉️ Email: mijanurcse9627@gmail.com
+
+
